@@ -1,5 +1,10 @@
-# open file in write mode
-file = open('listfile.txt', 'w')
-
-# TODO: create the list 
-file.write(input('SPEAK! ') + '\n')
+hi
+hello
+how are you
+hola
+kamusta
+como estas
+howdy
+yo
+whats up
+wats good
